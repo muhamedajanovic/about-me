@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayanci25
 - 👀 I’m interested in python
-- 🌱 I’m currently learning tkinter, and trying to share that here
+- 🌱 I’m currently learning tkinter and flutter, and trying to share that here
 - 💞️ I’m looking to collaborate on some new python ideas and project
 - 📫 m.ajanovic@student.uninp.edu.rs
 
