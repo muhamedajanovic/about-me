@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ayanci25
-- 👀 I’m interested in python
-- 🌱 I’m currently learning tkinter and flutter, and trying to share that here
-- 💞️ I’m looking to collaborate on some new python ideas and project
+- 👀 I’m interested in automation, and web development
+- 🌱 I’m currently learning HTML/CSS and JS
+- 🔜 I'll start learning one of JS frameworks
+- 💞️ I’m looking to collaborate on some new projects
 - 📫 m.ajanovic@student.uninp.edu.rs
 
 <!---
